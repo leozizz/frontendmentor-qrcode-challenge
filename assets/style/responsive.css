@@ -1,17 +1,17 @@
 /* TABLET */
 
 @media (max-width: 768px) {
-    .qrcode {
+    main {
         width: 60%;
         height: 75%;
     }
 
-    .qrcode-title {
+    h1 {
         font-size: 3rem;
         margin-top: 30px;
     }
 
-    .qrcode-description {
+    p {
         font-size: 2.5rem;
         margin-top: 30px;
     }
@@ -25,17 +25,17 @@
 /* MOBILE */
 
 @media (max-width: 576px) {
-    .qrcode {
+    main {
         width: 320px;
         height: 500px;
     }
 
-    .qrcode-title {
+    h1 {
         margin: 15px 0px 0px 0px;
         font-size: 2.2rem;
     }
 
-    .qrcode-description {
+    p {
         margin: 15px 0px 0px 0px;
         font-size: 1.7rem;
     }
