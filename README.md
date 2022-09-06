@@ -12,7 +12,6 @@ This is a solution to the [QR code component challenge](https://www.frontendment
   - [Built with](#built-with)
   - [Continued development](#continued-development)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
