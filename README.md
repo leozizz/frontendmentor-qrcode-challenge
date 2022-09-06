@@ -1,4 +1,4 @@
-# Frontend Mentor - Huddle landing page with single introductory section solution
+# Frontend Mentor - QR Code component challenge solution
 
 This is a solution to the [QR code component challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -18,10 +18,7 @@ This is a solution to the [QR code component challenge](https://www.frontendment
 
 ### The challenge
 
-Users should be able to:
-
-- View the optimal layout for the page depending on their device's screen size
-- See hover states for all interactive elements on the page
+The challenge is to build a QR code component and make it look as close to the design reference as possible.
 
 ### Screenshots
 
@@ -34,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Huddle Landing Page - Leozizz GitHub](https://www.frontendmentor.io/solutions/huddle-landing-page-using-css-grid-and-flexbox-V4LTpa2lqp)
-- Live Site URL: [Huddle Landing Page - Leozizz ](https://leozizz.github.io/huddle-landing-page-frontend-mentor/)
+- Solution URL: [QR Code Component - Leozizz GitHub]()
+- Live Site URL: [QR Code Component - Leozizz ]()
 
 ## My process
 
@@ -43,8 +40,7 @@ Users should be able to:
 
 - HTML5
 - CSS custom properties
-- Flexbox
-- CSS Grid
+- CSS Flexbox
 
 ### Continued development
 
@@ -53,10 +49,6 @@ Currently I don't have in-depth knowledge of HTML and CSS, but I am studying mor
 ## Author
 
 - Website - [Leonardo Silva - leozizz](https://leozizz.github.io)
+- LinkedIn - [Leonardo Silva](https://www.linkedin.com/in/leozizz/)
 - GitHub - [leozizz](https://github.com/leozizz)
 - Frontend Mentor - [@leozizz](https://www.frontendmentor.io/profile/leozizz)
-
-
-## Acknowledgments
-
-I thank the entire [**Dev em Dobro**](https://www.instagram.com/devemdobro/) team that has been helping me through the **DevQuest** training where I am having the opportunity to learn and improve my skills in Front-end development and for all the mentoring and help available.
