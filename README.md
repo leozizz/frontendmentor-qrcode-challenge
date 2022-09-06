@@ -32,7 +32,7 @@ The challenge is to build a QR code component and make it look as close to the d
 ### Links
 
 - Solution URL: [QR Code Component - Leozizz GitHub]()
-- Live Site URL: [QR Code Component - Leozizz ]()
+- Live Site URL: [QR Code Component - Leozizz ](https://leozizz.github.io/frontendmentor-qrcode-challenge/)
 
 ## My process
 
