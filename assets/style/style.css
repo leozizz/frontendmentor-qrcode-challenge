@@ -38,13 +38,12 @@ p {
     color: hsl(220, 15%, 55%);
 }
 
-.attribution {
-    position: absolute;
+footer {
     bottom: 10px;
+    position: absolute;
     font-size: 1.2rem;
-    text-align: center; 
 }
 
-.attribution a { 
+footer a { 
     color: hsl(228, 45%, 44%); 
 }
